@@ -10,7 +10,7 @@
     "resolveJsonModule": true,
     "jsx": "preserve",
     "types": ["vite/client"],
-    "baseUrl": "./Radon-Games/",
+    "baseUrl": "/Radon-Games/",
     "paths": {
       "~/*": ["./src/*"]
     }
